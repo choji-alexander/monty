@@ -1,8 +1,8 @@
 #include "monty.h"
 /**
- * f_pint - prints the top
+ * f_pinter - prints the top
 */
-void f_pint(stack_t **head, unsigned int counter)
+void f_pinter(stack_t **head, unsigned int counter)
 {
 	if (*head == NULL)
 	{

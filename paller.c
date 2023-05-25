@@ -1,8 +1,8 @@
 #include "monty.h"
 /**
- * f_pall - prints the stack
+ * f_paller - prints the stack
 */
-void f_pall(stack_t **head, unsigned int counter)
+void f_paller(stack_t **head, unsigned int counter)
 {
 	stack_t *h;
 	(void)counter;
