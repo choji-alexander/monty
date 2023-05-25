@@ -5,7 +5,7 @@
 int executer(char *content, stack_t **stack, unsigned int counter, FILE *file)
 {
 	instruction_t opst[] = {
-				{"push", f_push}, {"pall", f_pall}, {"pint", f_pinter},
+				{"push", f_push}, {"pall", f_pall}, {"pint", f_pint},
 				{"pop", f_poper},
 				{"swap", f_swaper},
 				{"add", f_adder},

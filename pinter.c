@@ -2,7 +2,7 @@
 /**
  * f_pint - prints the top
 */
-void f_pinter(stack_t **head, unsigned int counter)
+void f_pint(stack_t **head, unsigned int counter)
 {
 	if (*head == NULL)
 	{
